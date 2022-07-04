@@ -1,0 +1,9 @@
+{
+	"@nativescript/core": {
+		"C:\\ticmallorca\\node_modules\\@nativescript\\core\\platforms\\android\\native-api-usage.json": "34ee0e9771ad7dd9d388c191734d71507a04565a",
+		"C:\\ticmallorca\\node_modules\\@nativescript\\core\\platforms\\android\\widgets-release.aar": "d17b52627f821ca50d562ece5cb8c8f48b84e917"
+	},
+	"nativescript-background-http": {
+		"C:\\ticmallorca\\node_modules\\nativescript-background-http\\platforms\\android\\uploadservice-release.aar": "964ff477accc1151034191c5a928d19d7d390432"
+	}
+}
